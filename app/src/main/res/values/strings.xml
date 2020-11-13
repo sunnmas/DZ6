@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DZ6</string>
+    <string name="button_caption">Выбрать фон</string>
+    <string name="message_header">Хотите поменять фон?</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+    <color name="redColor">#FF0000</color>
+    <color name="yellowColor">#FFFF00</color>
+    <color name="greenColor">#00FF00</color>
+</resources>
